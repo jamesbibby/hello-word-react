@@ -1,7 +1,5 @@
 This repository is a simple create-react-app application, served by a cloudflare worker.  The worker is a Single Page Application Router written in Typescript.
 
-The post can be read here: https://bibs.codes/posts/typescript-cloudflare-worker
-
 -----
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
